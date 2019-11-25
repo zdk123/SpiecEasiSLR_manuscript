@@ -15,7 +15,7 @@ for command line access, and an API key.
 
 For running the network inference on your own data, base R and SpiecEasi is all you need.
 This involves a few auxiliary R packages (devtools, phyloseq, Matrix, Rcpp and RcppArmadillo)
-See the (SpiecEasi github page)[https://github.com/zdk123/SpiecEasi] for details.
+See the [SpiecEasi github page](https://github.com/zdk123/SpiecEasi) for details.
 
 For reproducing the manuscript or for accessing the input data or output results via Synapse,
 you can set up the dependencies in one-shot in two different ways.
@@ -44,7 +44,7 @@ conda env create -n seslr -f docker/environment_minimal.yml
 Rscript -e "devtools::install_github('zdk123/SpiecEasi', ref='d6cf2fb', upgrade='never')"
 ```
 
-SpiecEasi is also (on bioconda)[https://bioconda.github.io/recipes/r-spieceasi/README.html],
+SpiecEasi is also [on bioconda](https://bioconda.github.io/recipes/r-spieceasi/README.html),
 but for version stability (i.e. to reproduce the manuscript's results,
 stick to the devtools installation at the git commit).
 
