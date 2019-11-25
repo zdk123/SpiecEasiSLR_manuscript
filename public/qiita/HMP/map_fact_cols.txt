@@ -1,0 +1,4 @@
+BarcodeSequence
+run_prefix
+host_subject_id
+sequencecenter

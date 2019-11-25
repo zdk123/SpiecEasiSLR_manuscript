@@ -1,0 +1,9 @@
+age
+bmi
+observedotus
+pd
+sequencecountabove10000
+stopweek
+totalindividualweeks
+weeknumber
+weekssincestart

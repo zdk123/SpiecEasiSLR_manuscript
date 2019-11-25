@@ -1,0 +1,5 @@
+BarcodeSequence
+run_prefix
+anonymized_name
+host
+mislabeled

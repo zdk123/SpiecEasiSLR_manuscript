@@ -1,0 +1,11 @@
+BarcodeSequence
+run_prefix
+cd_behavior
+cd_location
+cd_resection
+diagnosis_full
+host_subject_id
+ibd_subtype
+perianal_disease
+sex
+uc_extent

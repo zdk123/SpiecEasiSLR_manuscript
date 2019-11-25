@@ -1,0 +1,2 @@
+age
+disease_duration

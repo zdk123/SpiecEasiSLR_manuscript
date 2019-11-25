@@ -1,0 +1,5 @@
+age
+days_since_epoch
+days_since_experiment_start
+elevation
+elevation_m

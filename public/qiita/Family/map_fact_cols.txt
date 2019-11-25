@@ -1,0 +1,14 @@
+BarcodeSequence
+run_prefix
+ age_cat
+ diet
+drug_usage
+env_feature
+env_package
+family
+family_relationship
+pet_farm_animal
+role
+scientific_name
+sex
+weight_loss_3_month

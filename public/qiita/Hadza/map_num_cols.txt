@@ -1,0 +1,9 @@
+elevation
+latitude
+longitude
+qiita_study_id
+seasonality
+host_age
+seasonality_unique_subjects
+sampleid_paper_table_s1
+in_house_identifier

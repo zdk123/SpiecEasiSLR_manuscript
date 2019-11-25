@@ -1,0 +1,11 @@
+age
+ascarislubricoides_eggpergram
+cryptococcus_elisa
+ehistolytica_elisa
+elevation
+giardia_elisa
+iga_concentration
+latitude
+longitude
+tricuristricuria_eggpergram
+crd_iga_od

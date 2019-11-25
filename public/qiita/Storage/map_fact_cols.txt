@@ -1,0 +1,7 @@
+BarcodeSequence
+run_prefix
+duration_of_storage
+env_feature
+host_subject_id
+sample_preservation_method
+sample_storage_temp_treatment

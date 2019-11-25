@@ -1,0 +1,10 @@
+run_prefix
+age_range
+bmi_class
+city
+geo_loc_name
+hiden_blood
+host_subject_id
+medicament
+sex
+stool_consistency

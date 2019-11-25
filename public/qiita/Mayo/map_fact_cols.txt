@@ -1,0 +1,11 @@
+BarcodeSequence
+extraction_robot
+primer_plate
+run_prefix
+sample_plate
+well_description
+well_id
+anonymized_name
+day
+extraction_method
+host_subject_id

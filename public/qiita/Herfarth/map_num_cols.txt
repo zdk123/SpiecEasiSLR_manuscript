@@ -1,0 +1,17 @@
+age
+anti_tnf
+asa_5_asa
+body_mass_index
+cdai_week_2
+cdai_week_4
+days_since_epoch
+elevation
+height_or_length
+immunosuppressants
+individual_sample_number
+latitude
+longitude
+sibdq_week4
+sibdq_week_2
+steroids
+tot_mass

@@ -1,0 +1,17 @@
+age
+bmi
+cholesterol
+days_of_study
+elevation
+height
+hemoglobin
+host_age
+host_body_mass_index
+host_height
+glucose
+uric_acid
+latitude
+longitude
+seqs
+weight
+year

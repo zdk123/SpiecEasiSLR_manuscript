@@ -1,0 +1,10 @@
+BarcodeSequence
+extractedby
+pcrplate
+run_date
+wellinpcrplate
+anonymized_name
+familyid
+sex
+shipmentnumber
+zygosity

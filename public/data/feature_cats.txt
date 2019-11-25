@@ -1,0 +1,13 @@
+category	variable
+IV	diet
+IV	antibiotics
+I	host_subject_id
+I	age
+I	sex
+II	run_prefix
+II	collection_timestamp
+II	primer_plate
+II	run_date
+II	extraction_robot
+III	zero_tax
+III	depth

@@ -1,0 +1,11 @@
+extraction_robot
+ extractionkit_lot
+ primer_plate
+ well_id
+ bmi
+ height
+ host_nation
+ host_scientific_name
+ life_stage
+ mapping_file_name
+ taxon_id

@@ -1,0 +1,27 @@
+name	qiita_ids	gene	region	sequencing_platform	Hiseq_model	seq_length_bp	model	babies*	geo	repeated_samples	technical_artifacts	OTUs	samples	OTUs_filt	gut_samples_filt	publication	citekey
+ABTX	11052	16S	V4	Illumina HiSeq	2500	124	time series	no	western	yes	no	17598	680	831	241	NA	
+AGP	10317	16S	V4	Illumina MiSeq; Illumina HiSeq	2500	150	cross-section	no	western	no	no	1383	11151	303	7722	http://dx.doi.org/10.1128/msystems.00031-18	McDonald2018
+Babies	2010	16S	V4	Illumina MiSeq	NA	150	lifestyle	yes	western	yes	no	11394	919	104	132	http://dx.doi.org/10.1038/nm.4039	Dominguez-Bello2016
+Bangladesh	10352	16S	V4	Illumina HiSeq	2500	150	batch	no	non-western	yes	yes	8229	935	796	841	http://dx.doi.org/10.1128/AEM.00361-17	Vogtmann2017
+Bolivar	11874	16S	V4	Illumina MiSeq	NA	150	lifestyle	no	non-western	yes	no	2331	271	476	110	https://dx.doi.org/10.1128%2FmSphere.00193-18	Ruggles2018
+CCFA	1939;1998	16S	V4	Illumina MiSeq	NA	175	IBD	no	western	no	no	5326	1643	452	511	http://dx.doi.org/10.1016/j.chom.2014.02.005	Gevers2014b
+Colombian	11993	16S	V4	Illumina MiSeq	NA	250	lifestyle	no	non-western	no	no	6184	441	383	396	http://dx.doi.org/10.1038/s41598-018-29687-x; http://dx.doi.org/10.1038/ijo.2017.281	"_DeLaCuesta-Zuluaga2018, _DeLaCuesta-Zuluaga2018b"
+DHM	11712	16S	V4	Illumina HiSeq	2500	150	lifestyle	yes	western	yes	no	3277	1385	101	352	NA	
+ECAM	10249	16S	V4	Illumina MiSeq	NA	150	lifestyle	yes	western	yes	no	1342	1216	101	963	http://doi.org/10.1126/scitranslmed.aad7121	Bokulich2016
+Family	797	16S	V2	Illumina GAIIx	NA	127	cross-section	no	western	yes	no	15974	1069	208	184	http://dx.doi.org/10.7554/eLife.00458	Song2013
+Flores	2151	16S	V4	Illumina HiSeq	2000	100	cross-section	no	western	yes	no	9265	917	424	777	http://dx.doi.org/10.1186/s13059-014-0531-y	Flores2014
+GGMP	11757	16S	V4	Illumina HiSeq	2500	219	cross-section	no	non-western	no	no	16219	7009	542	6308	http://dx.doi.org/10.1038/s41591-018-0164-x	He2018
+Hadza	11358	16S	V4	Illumina MiSeq	NA	250	lifestyle	no	non-western	no	no	4783	797	597	593	http://dx.doi.org/10.1126/science.aan4834	Smits2017
+Herfarth	2538	16S	V4	Illumina HiSeq	2000	100	IBD	no	western	yes	no	10530	906	456	752	http://dx.doi.org/10.1136/gutjnl-2017-315352	Vazquez-Baeza2018
+HIV	11914	16S	V4	Illumina MiSeq	NA	239	lifestyle	no	western	no	no	6771	217	439	195	https://doi.org/10.1186/s40168-018-0580-7	Armstrong2018
+HMP	1928	16S	V4	454	NA	527	cross-section	no	western	no	no	10730	6000	189	349	http://dx.doi.org/doi:10.1038/nature11234	Hmp:2012
+Infant	10918	16S	V4	Illumina MiSeq	NA	150	lifestyle	yes	western	yes	no	4682	282	170	253	NA	
+Malnourish	1454	16S	V4	Illumina HiSeq	2000	100	lifestyle	yes	non-western	yes	no	8680	875	274	787	http://dx.doi.org/10.1038/nature13421	Subramanian2014
+Mayo	10184	16S	V4	Illumina HiSeq	2500	150	batch	no	western	yes	yes	6797	1034	825	865	http://dx.doi.org/10.1093/aje/kww177	Vogtmann2017
+Moving	550	16S	V4	Illumina GAIIx	NA	132	time series	no	western	yes	no	22765	1967	537	420	http://dx.doi.org/10.1186/gb-2011-12-5-r50	Caporaso2011
+PNNL	1629	16S	V4	Illumina HiSeq	2000	98	IBD	no	western	yes	no	10996	683	534	614	http://dx.doi.org/10.1038/nmicrobiol.2017.4	Halfvarson2017
+PPR	1774	16S	V4	Illumina HiSeq	2000	99	lifestyle	no	non-western	yes	no	20608	723	241	122	NA	
+Sandborn	11546	16S	V4	Illumina MiSeq	NA	150	IBD	no	western	yes	no	4719	361	187	292	http://dx.doi.org/10.1038%2Fctg.2017.58	Moustafa2018
+Storage	10394	16S	V4	Illumina MiSeq; Illumina HiSeq	2500	124	batch	no	western	yes	yes	9719	1522	554	1263	http://dx.doi.org/10.1128/mSystems.00021-16	Song2016
+TwinsUK	2014	16S	V4	Illumina MiSeq	NA	250	genetics	no	western	yes	no	6842	1024	767	921	http://dx.doi.org/10.1016/j.cell.2014.09.053	Goodrich2014
+TZ	2024	16S	V4	Illumina MiSeq	NA	150	lifestyle	no	non-western	yes	no	6868	1105	294	338	http://dx.doi.org/10.1128/AEM.00780-15	Bisanz2015
